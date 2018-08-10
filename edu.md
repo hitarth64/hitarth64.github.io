@@ -5,7 +5,7 @@ permalink: /ee/
 ---
 
 ### Master of Applied Science (MASc), Electrical & Computer Engineering, University of Toronto
-* Focus on application of Machine Learning in field of Photonics
+* Focus on the applications of Machine Learning and Signal Processing
 * September 2018 - August 2020 (expected)
 
 ### Bachelor of Technology, Electrical Engineering, Indian Institute of Technology - Bombay

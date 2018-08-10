@@ -19,7 +19,7 @@ permalink: /ee/
 * Worked on development of control circuits, electrical isolation and analog circuit design
 * May 2016 - July 2016
 
-#### Development Engineer, Sony Energy Devices, Japan (Now part of Murata Mfg. Co. Ltd., Japan)
+#### Development Engineer, Sony Energy Devices, Japan (Now Murata Mfg., Japan)
 * Developed models and algorithms for state of charge (SoC) estimation of energy storage modules
 * Algorithms for Battery Management Systems on embedded platforms like PLCs, microcontrollers, etc.
 * July 2017 - June 2018

@@ -4,5 +4,5 @@
 
 layout: home
 ---
-![dp](hitarth.jpg){:height="36px" width="36px"}
+![dp](hitarth.jpg){:height="150px" width="150px"}
 This is Hitarth.

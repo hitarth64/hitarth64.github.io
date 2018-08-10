@@ -7,5 +7,5 @@ permalink: /trivia/
 * Most likely if I am not attending a class, you can find me in my office SD-123 in the ECE department.
 * In my free time, I love to solve mathematical puzzles or write poems/stories - some which could be found at
 [Cryptic Castle](https://hitarth64.blogspot.com)
-* So, if you have found a good mathematical puzzle, send it to me; I will be very grateful to you. If your question is intrigues me, there is chance that you may get a treat :P
-* I am quite active on most of the Social Networking Platforms. Feel free to ping me!
+* So, if you have found a good mathematical puzzle, send it to me. If your question is intrigues me, there is a chance that you may get a treat. :P 
+* I am a more pf a city person than a countryside person. :D

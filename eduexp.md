@@ -21,5 +21,5 @@ permalink: /ee/
 
 #### Development Engineer, Sony Energy Devices, Japan (Now Murata Mfg., Japan)
 * Developed models and algorithms for state of charge (SoC) estimation of energy storage modules
-* Algorithms for Battery Management Systems on embedded platforms like PLCs, microcontrollers, etc.
+* Algorithms for Battery Management Systems on embedded platforms like PLCs, microcontrollers
 * July 2017 - June 2018

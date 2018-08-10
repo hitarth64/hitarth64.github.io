@@ -1,6 +1,6 @@
 ---
-title: "RESUME"
-layout: pdf
+layout: page
+title: RESUME
 permalink: /resume/
 ---
 

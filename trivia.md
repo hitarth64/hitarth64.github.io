@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trivia
+title: TRIVIA
 permalink: /trivia/
 ---
 

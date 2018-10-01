@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gings
-permalink: /grings/
+title: GINGS
+permalink: /gings/
 ---
 
 * For the new comers, Gings is the short form for graduate life musings or geeky musings. 

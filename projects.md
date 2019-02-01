@@ -5,6 +5,9 @@ permalink: /projects/
 ---
 
 Page still under Construction - adding project descriptions (Sorry for inconvinience): 
+
+Few relevant & interesting projects:
+
 * Accelerated Materials Discovery
 * Genetic variants classification 
 * DSP application in Genomics & Proteomics

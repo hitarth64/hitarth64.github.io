@@ -13,3 +13,5 @@ permalink: /gings/
 * GG2 (13/10/2018): You are a true grad student if even at 3AM, you want to do your research instead of sleeping away. 
 
 * GG3 (04/11/2018): A true student develops love for the course a day before the exams.
+
+* GG4 (13/01/2019): You aren't a true grad student unless you make your partner forcefully listen to all the non-sense gibberish that all there is in your research and then come upon eureka moment by that feat!

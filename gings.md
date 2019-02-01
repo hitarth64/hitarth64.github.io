@@ -14,4 +14,4 @@ permalink: /gings/
 
 * GG3 (04/11/2018): A true student develops love for the course a day before the exams.
 
-* GG4 (13/01/2019): You aren't a true grad student unless you make your partner forcefully listen to all the non-sense gibberish that all there is in your research and then come upon eureka moment by that feat!
+* GG4 (13/01/2019): You aren't a true grad student unless you make your friends forcefully listen to all the non-sense gibberish that all there is in your research and then come upon eureka moment by that feat!

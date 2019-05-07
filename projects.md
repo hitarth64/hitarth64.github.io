@@ -14,11 +14,11 @@ Few relevant & interesting projects:
 
 ## Investigation of generalization in deep neural networks
   * Exploration of how and when we have learning and when we have simple memorization of the training data
-  * Bayesian Evidence as a tool to explain the observations and to predict if we will observe good generalization. ![test image](evidence.jpg)
+  * **Bayesian Evidence** as a tool to explain the observations and to predict if we will observe good generalization.
 
 
 ## Genetic variants classification 
-  * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications. 
+  * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications. ![image 3](genomic.jpg){:height="100px" width="100px"}
 
 ## DSP application in Genomics & Proteomics
 ## Shearlets & Curvelets for solving PDEs

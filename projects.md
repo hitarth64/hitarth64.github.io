@@ -8,12 +8,13 @@ Page still under Construction - adding project descriptions (Sorry for inconvini
 
 Few relevant & interesting projects:
 
-## Accelerated Materials Discovery
+# Accelerated Materials Discovery
   * Machine learning quantum physics to search large chemical space (**O(10<sup>41</sup>)**) to find favorable materials for photonics and quantum computing applications
   * Density Functional Theory (DFT) based exploration and training. 
   ![test image](perovskite.JPG){:height="100px" width="100px"}
 
-## Investigation of generalization in deep neural networks
+
+# Investigation of generalization in deep neural networks
   * Exploration of how and when we have learning and when we have simple memorization of the training data
   * **Bayesian Evidence** as a tool to explain the observations and to predict if we will observe good generalization.
 

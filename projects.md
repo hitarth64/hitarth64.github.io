@@ -14,7 +14,7 @@ Few relevant & interesting projects:
 
 ## Investigation of generalization in deep neural networks
   * Exploration of how and when we have learning and when we have simple memorization of the training data
-  * Bayesian Evidence as a tool to explain the observations and to predict if we will observe good generalization. ![test image](evidence.jpg){:height="100px" width="100px"}
+  * Bayesian Evidence as a tool to explain the observations and to predict if we will observe good generalization. ![test image](evidence.jpg)
 
 
 ## Genetic variants classification 

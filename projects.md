@@ -20,7 +20,6 @@ Few relevant & interesting projects:
 
 ### Genetic variants classification 
   * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications. 
-  ![image 3](genomic.jpg){:height="100px" width="100px"}
 
 ### DSP application in Genomics & Proteomics
 ### Shearlets & Curvelets for solving PDEs

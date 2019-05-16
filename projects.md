@@ -11,7 +11,6 @@ Few relevant & interesting projects:
 ### Accelerated Materials Discovery
   * Machine learning quantum physics to search large chemical space (**O(10<sup>41</sup>)**) to find favorable materials for photonics and quantum computing applications
   * Density Functional Theory (DFT) based exploration and training. 
-  [//]: # * ![test image](perovskite.JPG){:height="100px" width="100px"}
 
 
 ### Investigation of generalization in deep neural networks

@@ -24,12 +24,4 @@ Few relevant & interesting projects:
 ### Natural Language Processing for Kickstarter Campaign 
  * Combining Natural Language processing (NLP) with stanadard mahine learning techniques, developed a classifier to predict success accuracy of the campaign based on its description, goal targeted, duration of the campaign, etc.
  * Two flavors of NLP were used - word2vec inspired models and count vectorizer-tfidf inspired models. 
-<!---
-### DSP application in Genomics & Proteomics>
-### Shearlets & Curvelets for solving PDEs
-### Video Reconstruction using Compressive Sensing
-### Anisotropic diffusion based image compression
-### Query Handling Systems
-### Implementation of OFDM
-### Portable Planeterium
--->
+

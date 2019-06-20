@@ -23,5 +23,4 @@ Few relevant & interesting projects:
   
 ### NLP inspired model for designing a successful Kickstarter Campaign 
  * Combining Natural Language processing (NLP) with stanadard mahine learning techniques, developed a classifier to predict success accuracy of the campaign based on its description, goal targeted, duration of the campaign, etc.
- * Two flavors of NLP were used - word2vec inspired models and count vectorizer-tfidf inspired models. 
-
+ * Also used word2vec models to come up with the most likely to succeed description for the campaign

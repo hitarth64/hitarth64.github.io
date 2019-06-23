@@ -8,6 +8,5 @@ layout: home
 
 Hey guys, this is Hitarth. Welcome to my website!
 
-I am a graduate student at Department of ECE, University of Toronto. My interests are concentrated around the applications of Machine Learning and Signal Processing.  
-
-Feel free to contact if you think that there is an opportunity available that matches my interest.
+I am a graduate student at Department of ECE, University of Toronto. 
+Hoping you guys have fun time scrolling this webpage!

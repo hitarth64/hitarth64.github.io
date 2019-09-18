@@ -4,17 +4,13 @@ title: TRIVIA
 permalink: /trivia/
 ---
 
-* I love playing volleyball or foosball. Count me in if you want to play it! 
 * In my free time, I love to solve mathematical puzzles or write poems/stories - some which could be found at
 [Cryptic Castle](https://hitarth64.blogspot.com)
-* So, if you have found a good mathematical puzzle, send it to me. If your question intrigues me, there is a chance that you may get a treat. :P 
 
-* I hope to contribute fun questions and some fun musings I have experienced over time. 
+* I try to solve at least one maths puzzle everyday. Here are a few that I have found interesting and fun:
 
-* M1 (28/09/2018): Always keep Friday & Saturday nights free - thank me later :) 
+1. Your boss tells you to bring him a cup of coffee from the company vending machine. The problem is the machine is broken. When you press the button for a drink, it will randomly fill a percentage of the cup (between 0 and 100 percent). You know you need to bring a full cup back to your boss. What’s the expected number of times you will have to fill the cup? (source: cseblog.com)
 
-* M2 (13/10/2018): You are a true grad student if even at 3AM, you want to do your research instead of sleeping away. 
+2. In an election, two candidates, Albert and Benjamin, have in a ballot box a and b votes respectively, a>b, for example, 3 and 2. If the ballots are randomly drawn and tallied, what's the chance that at least once after the first tally the candidates have the same number of tallies? (source: 50 challenging problems)
 
-* M3 (04/11/2018): A true student develops love for the course a day before the exams.
-
-* M4 (13/01/2019): You aren't a true grad student unless you make your friends forcefully listen to all the non-sense gibberish that all there is in your research and then come upon eureka moment by that feat!
+3. You have 25 horses, you want to pick the fastest 3 horses out of those 25. In each race, only 5 horses can run at the same time. What is the minimum number of races required to find the 3 fastest horses without using a stopwatch? (source: a friend asked me)

@@ -8,7 +8,7 @@ Page still under Construction - adding project descriptions (Sorry for inconvini
 
 Few relevant & interesting projects:
 
-### Accelerated Materials Discovery
+### Accelerated Materials Discovery (Ongoing)
   * Machine learning quantum physics to search large chemical space (**O(10<sup>41</sup>)**) to find favorable materials for photonics and quantum computing applications
   * Density Functional Theory (DFT) based exploration and training. 
 
@@ -25,6 +25,7 @@ Few relevant & interesting projects:
  * Combining Natural Language processing (NLP) with stanadard mahine learning techniques, developed a classifier to predict success accuracy of the campaign based on its description, goal targeted, duration of the campaign, etc.
  * word2vec models to articulate most likely to succeed description for the campaign; (multiple contributions)  [Link](https://github.com/yanchenm/dessa-comp)
 
-### NLP to analyze podcasts
+### NLP to analyze podcasts (Ongoing)
  * Using NLTK to do some really fun & cool NLP on one of the podcasts I like a lot. 
+ * If you have some cool idea which I should try on, please drop me a tweet or message!
  * Ongoing hobby project! [Link](https://github.com/hitarth64/nltk_podcast)

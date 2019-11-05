@@ -26,5 +26,5 @@ Few relevant & interesting projects:
  * word2vec models to articulate most likely to succeed description for the campaign; (multiple contributions)  [Link](https://github.com/yanchenm/dessa-comp)
 
 ### NLP to analyze podcasts
- * Using NLP to do some janky NLP on one of the podcasts I like a lot. 
+ * Using NLTK to do some really fun & cool NLP on one of the podcasts I like a lot. 
  * Ongoing hobby project! [Link](https://github.com/hitarth64/nltk_podcast)

@@ -19,7 +19,7 @@ Few relevant & interesting projects:
 
 
 ### Genetic variants classification 
-  * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications. 
+  * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications. [Link to report & code](https://github.com/hitarth64/statistical-learning/tree/master/project)
   
 ### NLP inspired model for designing a successful Kickstarter Campaign 
  * Combining Natural Language processing (NLP) with stanadard mahine learning techniques, developed a classifier to predict success accuracy of the campaign based on its description, goal targeted, duration of the campaign, etc.

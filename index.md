@@ -9,4 +9,7 @@ layout: home
 Hey guys, this is Hitarth. Welcome to my website!
 
 I am a graduate student at Department of ECE, University of Toronto. 
-Hoping you guys have fun time scrolling this webpage! For the curious souls out there, I definitely recommend checking out the [Trivia](https://hitarth64.github.io/trivia/) section of my webpage.
+
+Built this webpage to show case some of my works and as a means to entertain everyone through my projects and hobbies! 
+
+For the curious souls out there, I definitely recommend checking out the [Trivia](https://hitarth64.github.io/trivia/) section of my webpage.

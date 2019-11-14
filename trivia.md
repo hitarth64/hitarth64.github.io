@@ -18,3 +18,5 @@ permalink: /trivia/
 4. Pick independent random numbers at uniform from [0,1] and add them together. How many random numbers do you expect to need before the total first exceeds 1? (Source: Twitter [@octonion](https://twitter.com/octonion)) (I loved this!)
 
 5. How thick should a coin be to have a 1/3 chance of landing on edge? (Was trying to make coin stand on the magnetic strip of my laptop and started thinking of this. Von Neumann was asked this and he answered it in 20 seconds)
+
+PS: If you need to access my calendar, here is the [link](https://outlook.office365.com/owa/calendar/061c03dde107400c97eb02d7bb357e4f@mail.utoronto.ca/0f870ecfafe3452d877b123f41a7f51317344392603281493591/calendar.html)

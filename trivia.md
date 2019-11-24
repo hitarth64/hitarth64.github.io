@@ -7,7 +7,7 @@ permalink: /trivia/
 * In my free time, I love to solve mathematical puzzles or write poems/stories - some which could be found at
 [Cryptic Castle](https://hitarth64.blogspot.com)
 
-* I try to solve at least one maths puzzle everyday. Here are a few that I have found interesting and fun (Last updated: 5 Nov 2019):
+* I try to solve at least one maths puzzle everyday. Here are a few that I have found interesting and fun (Last updated: 24 Nov 2019):
 
 1. Your boss tells you to bring him a cup of coffee from the company vending machine. The problem is the machine is broken. When you press the button for a drink, it will randomly fill a percentage of the cup (between 0 and 100 percent). You know you need to bring a full cup back to your boss. What’s the expected number of times you will have to fill the cup? (source: cseblog.com)
 
@@ -18,5 +18,7 @@ permalink: /trivia/
 4. Pick independent random numbers at uniform from [0,1] and add them together. How many random numbers do you expect to need before the total first exceeds 1? (Source: Twitter [@octonion](https://twitter.com/octonion)) (I loved this!)
 
 5. How thick should a coin be to have a 1/3 chance of landing on edge? (Was trying to make coin stand on the magnetic strip of my laptop and started thinking of this. Von Neumann was asked this and he answered it in 20 seconds)
+
+6. A hen wants to cross a one-way road at a point, where cars drive by according to a homogeneous Poisson process with rate λ per unit time. It takes c time units for the hen to cross the road. Assume that the hen starts to cross the road immediately when there is a chance to do it without being run over. Let T denote the total waiting time for the hen till the instant it starts crossing; write an expression for T and compute the expected total waiting time. (Source: Facebook - miss such FB feeds)
 
 PS: If you need to access my calendar, here is the [link](https://outlook.office365.com/owa/calendar/061c03dde107400c97eb02d7bb357e4f@mail.utoronto.ca/0f870ecfafe3452d877b123f41a7f51317344392603281493591/calendar.html)

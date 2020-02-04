@@ -4,14 +4,12 @@ title: PROJECTS
 permalink: /projects/
 ---
 
-Page still under Construction - adding project descriptions (Sorry for inconvinience): 
+Few relevant & completed projects:
 
-Few relevant & interesting projects:
-
-### Accelerated Materials Discovery (Ongoing)
-  * Machine learning quantum physics to search large chemical space (**O(10<sup>41</sup>)**) to find favorable materials for photonics and quantum computing applications
+### Crystal Site Feature Embedding (Paper submitted)
+  * Developed a new representation which achieves state of the art accuracies for bandgaps(0.1 eV) and energies(0.007 eV/atom). 
+  * Achieves an unprecedented acceleration factor of 10<sup>101</sup> for materials and composition exploration
   * Density Functional Theory (DFT) based exploration and training. 
-
 
 ### Investigation of generalization in deep neural networks
   * Investigative study of how and when we have learning and when we have simple memorization of the training data
@@ -25,7 +23,7 @@ Few relevant & interesting projects:
  * Combining Natural Language processing (NLP) with stanadard mahine learning techniques, developed a classifier to predict success accuracy of the campaign based on its description, goal targeted, duration of the campaign, etc.
  * word2vec models to articulate most likely to succeed description for the campaign; (multiple contributions)  [Link](https://github.com/yanchenm/dessa-comp)
 
-### NLP to analyze podcasts (Ongoing)
+### NLP to analyze podcasts
  * Using NLTK to do some really fun & cool NLP on one of the podcasts I like a lot. 
  * If you have some cool idea which I should try on, please drop me a tweet or message!
  * Ongoing hobby project! [Link](https://github.com/hitarth64/nltk_podcast)

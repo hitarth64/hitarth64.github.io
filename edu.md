@@ -14,5 +14,5 @@ permalink: /ee/
 
 ### Conference Proceedings:
 * “Performance prediction for large area perovskite solar cells,” Y. Raote, H. Choubisa, and P. R. Nair, IEEE PVSC, 2017
-* "Crystal Site Feature Embedding Enables Exploration of Large Chemical Spaces", H. Choubisa, M. Askerka, K. Ryczko, O. Voznyy, K. Mills, I. Tamblyn, and E.H. Sargent, submitted(2020)
+* "Crystal Site Feature Embedding Enables Exploration of Large Chemical Spaces", H. Choubisa, M. Askerka, K. Ryczko, O. Voznyy, K. Mills, I. Tamblyn, and E.H. Sargent, Matter, 2020
 

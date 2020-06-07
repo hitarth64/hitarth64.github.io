@@ -14,7 +14,7 @@ permalink: /ee/
 
 
 
-### Academic Achievements:
+### Academic history:
 
 ### PhD, Electrical & Computer Engineering, University of Toronto
 * Research at the crossroads of Machine Learning, quantum chemistry, physics and quantum computing

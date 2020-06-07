@@ -17,7 +17,7 @@ permalink: /ee/
 ### Academic Achievements:
 
 ### PhD, Electrical & Computer Engineering, University of Toronto
-* Focus on the applications of Machine Learning and quantum computing
+* Research at the crossroads of Machine Learning, quantum chemistry, physics and quantum computing
 * September 2018 - 
 
 ### Bachelor of Technology, Electrical Engineering, Indian Institute of Technology - Bombay

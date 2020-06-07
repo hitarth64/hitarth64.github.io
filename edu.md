@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EDUCATION
+title: Publications
 permalink: /ee/
 ---
 

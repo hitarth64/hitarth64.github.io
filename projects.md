@@ -6,7 +6,7 @@ permalink: /projects/
 
 Few relevant & completed projects:
 
-### Crystal Site Feature Embedding (Paper submitted)
+### [Crystal Site Feature Embedding](https://www.cell.com/matter/fulltext/S2590-2385(20)30187-9)
   * Developed a new representation which achieves state of the art accuracies for bandgaps(0.1 eV) and energies(0.007 eV/atom). 
   * Achieves an unprecedented acceleration factor of 10<sup>101</sup> for materials and composition exploration
   * Density Functional Theory (DFT) based exploration and training. 

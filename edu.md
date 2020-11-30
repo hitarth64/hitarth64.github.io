@@ -17,7 +17,7 @@ permalink: /ee/
 ### Academic history:
 
 ### PhD, Electrical & Computer Engineering, University of Toronto
-* Research at the crossroads of Machine Learning, quantum chemistry, physics and quantum computing
+* Research at the crossroads of Machine Learning and quantum physics
 * September 2018 - 
 
 ### Bachelor of Technology, Electrical Engineering, Indian Institute of Technology - Bombay

@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![dp](images/hitarth.jpg){:height="150px" width="150px"}
+![dp](images/hitarth.png){:height="150px" width="150px"}
 
 Hey guys, this is Hitarth. Welcome to my website!
 

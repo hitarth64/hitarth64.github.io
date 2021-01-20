@@ -6,4 +6,4 @@ thumbnail: "/images/prince.jpg"
 rating: 5
 ---
 
-I will be using this blog space to explore and explain some of my research.
+I will be using this blog space to explore and explain some of my research. It took me a while to set it up. However, now it is working; I will actively write here!

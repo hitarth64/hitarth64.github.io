@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img align="left" src="images/hitarth.png">
+<img align="left" src="images/hitarth.png" height="200px">
 
 Hey guys, this is Hitarth. Welcome to my website!
 

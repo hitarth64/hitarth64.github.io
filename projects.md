@@ -6,6 +6,11 @@ permalink: /projects/
 
 Few relevant & completed projects:
 
+### [DARWIN: Interpretable Machine Learning for Quantum Chemistry](https://arxiv.org/abs/2101.04383)
+ * Accelerated search for materials with specified set of target properties: {Bandgaps, energies and nature of bandgap}
+ * Graph neural network architecture that learns and generalizes from small datasets
+ * Automated discovery pipeline for interpretable design rules
+
 ### [Crystal Site Feature Embedding](https://www.cell.com/matter/fulltext/S2590-2385(20)30187-9)
   * Developed a new representation which achieves state of the art accuracies for bandgaps(0.1 eV) and energies(0.007 eV/atom). 
   * Achieves an unprecedented acceleration factor of 10<sup>101</sup> for materials and composition exploration

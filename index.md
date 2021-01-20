@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img align="left" src="images/hitarth.png" height="150px" width="150px">
+
 Hey guys, this is Hitarth. Welcome to my website!
 
 I am a graduate student at Department of ECE, University of Toronto. 

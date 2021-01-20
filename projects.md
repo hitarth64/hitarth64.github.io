@@ -7,7 +7,7 @@ permalink: /projects/
 Few relevant & completed projects:
 
 ### [DARWIN: Interpretable Machine Learning for Quantum Chemistry](https://arxiv.org/abs/2101.04383)
- * Accelerated search for materials with specified set of target properties: {Bandgaps, energies and nature of bandgap}
+ * Accelerated search for materials with user specified set of target properties
  * Graph neural network architecture that learns and generalizes from small datasets
  * Automated discovery pipeline for interpretable design rules
 

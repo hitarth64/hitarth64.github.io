@@ -11,7 +11,7 @@ Hey guys, this is Hitarth. Welcome to my website!
 
 I am a graduate student at Department of ECE, University of Toronto. 
 
-Built this webpage to show case some of my works and as a means to spread science awareness. 
+I Built this webpage to show case some of my works and as a means to spread science awareness. 
 
 If you are looking to learn things about me and my work, give [Academic](https://hitarth64.github.io/ee/) and [Projects](https://hitarth64.github.io/projects/) tabs a look. 
 

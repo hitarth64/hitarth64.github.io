@@ -6,7 +6,7 @@ permalink: /ee/
 
 ### [Publications](https://scholar.google.com/citations?user=a3koOrcAAAAJ):
 
-* [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Hitarth Choubisa, Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
+* [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Choubisa, Hitarth , Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
 
 * [Deep‐Blue Perovskite Single‐Mode Lasing through Efficient Vapor‐Assisted Chlorination](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202006697), Pina, Joao M., Darshan H. Parmar, Golam Bappi, Chun Zhou, Hitarth Choubisa, Maral Vafaie, Amin M. Najarian et al. Advanced Materials (2020): 2006697.
 

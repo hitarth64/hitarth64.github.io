@@ -5,8 +5,7 @@
 layout: home
 ---
 
-img {border-radius: 50%;}
-<img align="left" src="images/hitarth.png" alt="Avatar">
+<img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%">
 
 Hey guys, this is Hitarth. Welcome to my website!
 

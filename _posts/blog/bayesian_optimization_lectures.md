@@ -1,8 +1,9 @@
 ---
 layout: blog
-title: "Test Run"
-date: 2020-08-20 
+title: "Bayesian Optimization"
+date: 2020-08-20 11:59:59 -0800
 thumbnail: "/images/prince.jpg"
+rating: 5
 ---
 
 As part of a lecture series on Machine Learning, I delivered a couple of lectures on Bayesian Optimization and Gaussian Processes. 

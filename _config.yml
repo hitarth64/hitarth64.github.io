@@ -21,10 +21,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hitarth64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChoubisaHitarth
 github_username:  hitarth64
-links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.ca/citations?user=a3koOrcAAAAJ"
+googleplus_username: a3koOrcAAAAJ
 
 # Build settings
 markdown: kramdown

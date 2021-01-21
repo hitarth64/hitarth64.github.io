@@ -16,19 +16,19 @@ Few relevant & completed projects:
   * Achieves an unprecedented acceleration factor of 10<sup>101</sup> for materials and composition exploration
   * Density Functional Theory (DFT) based exploration and training. 
 
-### Investigation of generalization in deep neural networks
+### [Investigation of generalization in deep neural networks](generalization_nn.pdf)
   * Investigative study of how and when we have learning and when we have simple memorization of the training data
-  * **Bayesian Evidence** as a tool to explain the observations and to predict if we will observe good generalization. [Link](generalization_nn.pdf)
+  * **Bayesian Evidence** as a tool to explain the observations and to predict if we will observe good generalization
 
 
-### Genetic variants classification 
-  * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications. [Link to report & code](https://github.com/hitarth64/statistical-learning/tree/master/project)
+### [Genetic variants classification](https://github.com/hitarth64/statistical-learning/tree/master/project)
+  * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications.
   
-### NLP inspired model for designing a successful Kickstarter Campaign 
+### [NLP inspired model for designing a successful Kickstarter Campaign](https://github.com/yanchenm/dessa-comp)
  * Combining Natural Language processing (NLP) with stanadard mahine learning techniques, developed a classifier to predict success accuracy of the campaign based on its description, goal targeted, duration of the campaign, etc.
- * word2vec models to articulate most likely to succeed description for the campaign; (multiple contributions)  [Link](https://github.com/yanchenm/dessa-comp)
+ * word2vec models to articulate most likely to succeed description for the campaign; (multiple contributions) 
 
-### NLP to analyze podcasts
+### [NLP to analyze podcasts](https://github.com/hitarth64/nltk_podcast)
  * Using NLTK to do some really fun & cool NLP on one of the podcasts I like a lot. 
  * If you have some cool idea which I should try on, please drop me a tweet or message!
- * Ongoing hobby project! [Link](https://github.com/hitarth64/nltk_podcast)
+ * Ongoing hobby project!

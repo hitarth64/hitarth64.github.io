@@ -16,10 +16,13 @@ Few relevant & completed projects:
   * Achieves an unprecedented acceleration factor of 10<sup>101</sup> for materials and composition exploration
   * Density Functional Theory (DFT) based exploration and training. 
 
+### [Quantum Support Vector Machines](https://github.com/hitarth64/quantum_SVM)
+  * Brief summary of how we can lever Quantum Computing to accelerate SVMs
+  * Two variants in implementation: based on NISQ devices and large numbered qubit devices
+  
 ### [Investigation of generalization in deep neural networks](generalization_nn.pdf)
   * Investigative study of how and when we have learning and when we have simple memorization of the training data
   * **Bayesian Evidence** as a tool to explain the observations and to predict if we will observe good generalization
-
 
 ### [Genetic variants classification](https://github.com/hitarth64/statistical-learning/tree/master/project)
   * Exploration of various machine learning strategies to find the best model which performs best in predicting how likely a genetic variant is have conflicting clinical classifications.

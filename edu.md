@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ACADEMICS
+title: Research
 permalink: /ee/
 ---
 

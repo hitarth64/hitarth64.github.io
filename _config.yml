@@ -22,6 +22,10 @@ url: "https://hitarth64.github.io" # the base hostname & protocol for your site,
 twitter_username: ChoubisaHitarth
 github_username:  hitarth64
 
+gitlab:
+     - username: jekyll
+       instance: example.com
+
 # Build settings
 markdown: kramdown
 theme: minima

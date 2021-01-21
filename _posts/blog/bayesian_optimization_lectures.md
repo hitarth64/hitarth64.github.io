@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Bayesian Optimization"
-date: 2020-08-20 11:59:59 -0800
+date: 2021-01-20 11:59:59 -0800
 thumbnail: "/images/prince.jpg"
 rating: 5
 ---

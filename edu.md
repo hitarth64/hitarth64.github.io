@@ -8,6 +8,8 @@ permalink: /ee/
 
 * [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Choubisa, Hitarth , Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
 
+* [Solvent‐Assisted Kinetic Trapping in Quaternary Perovskites](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202008690) Parmar, Darshan H., Joao M. Pina, Hitarth Choubisa, Golam Bappi, Koen Bertens, and Edward H. Sargent. "Solvent‐Assisted Kinetic Trapping in Quaternary Perovskites." Advanced Materials (2021): 2008690.
+
 * [Deep‐Blue Perovskite Single‐Mode Lasing through Efficient Vapor‐Assisted Chlorination](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202006697), Pina, Joao M., Darshan H. Parmar, Golam Bappi, Chun Zhou, Hitarth Choubisa, Maral Vafaie, Amin M. Najarian et al. Advanced Materials (2020): 2006697.
 
 * [Crystal Site Feature Embedding Enables Exploration of Large Chemical Spaces](https://www.cell.com/matter/fulltext/S2590-2385(20)30187-9), Choubisa, Hitarth, Mikhail Askerka, Kevin Ryczko, Oleksandr Voznyy, Kyle Mills, Isaac Tamblyn, and Edward H. Sargent. Matter (2020).

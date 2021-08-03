@@ -7,7 +7,7 @@ layout: home
 
 <img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%; padding: 40px; float: right;">
 
-Hey guys, this is Hitarth. Welcome to my website!
+こんにちは！私はHitarthです。「Hello！I am Hitarth] 
 
 I am a graduate student at Department of ECE, University of Toronto. 
 

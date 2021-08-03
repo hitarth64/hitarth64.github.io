@@ -7,11 +7,11 @@ layout: home
 
 <img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%; padding: 40px; float: right;">
 
-こんにちは！私はヒタルトです。「Hello！I am Hitarth] 
+Hello！I am Hitarth「こんにちは！私はヒタルトです。] 
 
-トロント大学でPhD学生です。「I am a PhD student at Department of ECE, University of Toronto.」
+I am a PhD student at Department of ECE, University of Toronto.「トロント大学でPhD学生です。」
 
-このウェブページは私の作品のいくつかを紹介することを目的としており、科学意識を広める手段としてそれを使用しようとしています。「This webpage is meant to showcase some of my works and I try to use it as a means to spread science awareness.」 
+This webpage is meant to showcase some of my works and I try to use it as a means to spread science awareness.「このウェブページは私の作品のいくつかを紹介することを目的としており、科学意識を広める手段としてそれを使用しようとしています。」 
 
 If you are looking to learn things about me and my work, give [Research](https://hitarth64.github.io/ee/) and [Projects](https://hitarth64.github.io/projects/) tabs a look. 
 

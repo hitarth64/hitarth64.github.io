@@ -7,9 +7,9 @@ layout: home
 
 <img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%; padding: 40px; float: right;">
 
-こんにちは！私はHitarthです。「Hello！I am Hitarth] 
+こんにちは！私はヒタルトです。「Hello！I am Hitarth] 
 
-I am a graduate student at Department of ECE, University of Toronto. 
+トロント大学でPhD学生です。「I am a PhD student at Department of ECE, University of Toronto.」
 
 This webpage is meant to showcase some of my works and I try to use it as a means to spread science awareness. 
 

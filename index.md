@@ -15,6 +15,6 @@ This webpage is meant to showcase some of my works and I try to use it as a mean
 
 If you are looking to learn things about me and my work, give [Research](https://hitarth64.github.io/ee/) and [Projects](https://hitarth64.github.io/projects/) tabs a look. 「私と私の仕事について学びたい場合は、[研究](https://hitarth64.github.io/ee/)　タブと[プロジェクト](https://hitarth64.github.io/projects/)タブをご覧ください。」
 
-For the curious souls out there, I definitely recommend checking out the [Trivia](https://hitarth64.github.io/trivia/) tab. 「好奇心旺盛な方はぜひ【トリビア】(https://hitarth64.github.io/trivia/) をチェックしてみてください 。」
+For the curious souls out there, I definitely recommend checking out the [Trivia](https://hitarth64.github.io/trivia/) tab. 「好奇心旺盛な方はぜひ [トリビア](https://hitarth64.github.io/trivia/) をチェックしてみてください 。」
 
 Feel free to tweet me or email me through links at the bottom of webpage.

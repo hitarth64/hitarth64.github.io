@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Technology for sustainability"
-date: 2021-10-21 11:59:59 -0800
+date: 2021-10-20 11:59:59 -0800
 thumbnail: "/images/prince.jpg"
 rating: 5
 ---

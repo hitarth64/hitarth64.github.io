@@ -7,10 +7,9 @@ layout: home
 
 <img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%; padding: 40px; float: right;">
 
-I am a research scientist [Orbital Materials](http://orbitalmaterials.com/) where I am continuing my passion for materials discovery by developing novel machine learning and quantum chemistry methods to enable an efficient prediction-to-demonstration pipeline.  <br />
+I am a research scientist [Orbital Materials](http://orbitalmaterials.com/) where I am pursuing my passion of accelerated materials discovery by developing novel machine learning and quantum chemistry methods to enable an efficient prediction-to-demonstration pipeline, grounded in real world experiments.<br />
 
-Before this venture as a research scientist, I completed my PhD from the University of Toronto. My research was interdisciplinary, combining quantum chemistry, machine learning, and quantum computing to accelerate the discovery of materials for energy storage and energy capture. The motivating theme had been grounding them in reality through in-lab experiments and thereby, bridging the gap between theory and experiments.
-
+Before this venture as a research scientist, I completed my PhD from the University of Toronto. My research was interdisciplinary, combining quantum chemistry, machine learning, and quantum computing to accelerate the discovery of materials for energy storage and energy capture. The common thread throughout my PhD journal was to bridge the gap between theory and experiments.</br>
 
 This webpage is meant to showcase some of my works and I try to use it as a means to spread science awareness. <br />
 

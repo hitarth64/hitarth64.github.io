@@ -7,7 +7,9 @@ layout: home
 
 <img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%; padding: 40px; float: right;">
 
-I am a PhD student at Department of ECE, University of Toronto. <br />
+I am a research scientist [Orbital Materials](http://orbitalmaterials.com/) where I am continuing my passion for materials discovery by developing new machine learning and quantum chemistry methods to enable an efficient prediction-to-demonstration pipeline.  <br />
+
+Before this venture as a research scientist, I completed my PhD from the University of Toronto. My research was interdisciplinary, combining quantum chemistry, machine learning, and quantum computing to accelerate the discovery of materials for energy storage and energy capture. The motivating theme had been grounding them in reality through in-lab experiments and thereby, bridging the gap between theory and experiments.
 
 
 This webpage is meant to showcase some of my works and I try to use it as a means to spread science awareness. <br />

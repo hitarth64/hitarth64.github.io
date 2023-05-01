@@ -4,7 +4,11 @@ title: RESEARCH
 permalink: /ee/
 ---
 
-### [Publications](https://scholar.google.com/citations?user=a3koOrcAAAAJ):
+### [Publications](https://scholar.google.com/scholar?start=10&q=hitarth+choubisa&hl=en&as_sdt=0,5):
+
+* [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://arxiv.org/abs/2302.13380), Choubisa, Hitarth, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
+
+* [Accelerated chemical space search using a quantum-inspired cluster expansion approach](https://www.cell.com/matter/pdf/S2590-2385(22)00662-2.pdf), Choubisa, Hitarth, Jehad Abed, Douglas Mendoza, Hidetoshi Matsumura, Masahiko Sugimura, Zhenpeng Yao, Ziyun Wang, Brandon R. Sutherland, Alán Aspuru-Guzik, and Edward H. Sargent, 2022
 
 * [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Choubisa, Hitarth , Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
 
@@ -24,7 +28,7 @@ permalink: /ee/
 
 ### PhD, Electrical & Computer Engineering, University of Toronto
 * Research at the crossroads of machine learning and quantum physics
-* September 2018 - 
+* September 2018 - November 2022
 
 ### Bachelor of Technology, Electrical Engineering, Indian Institute of Technology - Bombay
 * With **HONORS** in Electrical Engineering & **MINOR** in Computer Science & engineering(CSE) 

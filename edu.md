@@ -4,7 +4,7 @@ title: RESEARCH
 permalink: /ee/
 ---
 
-### [Publications](https://scholar.google.com/scholar?start=10&q=hitarth+choubisa&hl=en&as_sdt=0,5):
+### [Publications](https://www.researchgate.net/profile/Hitarth-Choubisa):
 
 * [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://arxiv.org/abs/2302.13380), Choubisa, Hitarth, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
 

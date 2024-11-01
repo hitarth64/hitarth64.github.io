@@ -6,7 +6,7 @@ permalink: /ee/
 
 ### [Publications](https://www.researchgate.net/profile/Hitarth-Choubisa):
 
-* [High-entropy alloy electrocatalysts screened using machine learning informed by quantum-inspired similarity analysis](https://www.cell.com/matter/abstract/S2590-2385(24)00528-9), Yuxin Chang, Ian Benlolo, Yang Bai, Christoff Reimer, Daojin Zhou, Hengrui Zhang, Hidetoshi Matsumura, Hitarth Matsumura, Xiao-Yan Li, Wei Chen, and others.
+* [High-entropy alloy electrocatalysts screened using machine learning informed by quantum-inspired similarity analysis](https://www.cell.com/matter/abstract/S2590-2385(24)00528-9), Yuxin Chang, Ian Benlolo, Yang Bai, Christoff Reimer, Daojin Zhou, Hengrui Zhang, Hidetoshi Matsumura, Hitarth Choubisa, Xiao-Yan Li, Wei Chen, and others.
 
 * [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202302575), Choubisa Hitarth, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
 

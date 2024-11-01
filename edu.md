@@ -8,11 +8,11 @@ permalink: /ee/
 
 * [High-entropy alloy electrocatalysts screened using machine learning informed by quantum-inspired similarity analysis](https://www.cell.com/matter/abstract/S2590-2385(24)00528-9), Yuxin Chang, Ian Benlolo, Yang Bai, Christoff Reimer, Daojin Zhou, Hengrui Zhang, Hidetoshi Matsumura, Hitarth Choubisa, Xiao-Yan Li, Wei Chen, and others.
 
-* [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202302575), Choubisa Hitarth, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
+* [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202302575), Hitarth Choubisa, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
 
-* [Accelerated chemical space search using a quantum-inspired cluster expansion approach](https://www.cell.com/matter/pdf/S2590-2385(22)00662-2.pdf), Choubisa Hitarth, Jehad Abed, Douglas Mendoza, Hidetoshi Matsumura, Masahiko Sugimura, Zhenpeng Yao, Ziyun Wang, Brandon R. Sutherland, Alán Aspuru-Guzik, and Edward H. Sargent, 2022
+* [Accelerated chemical space search using a quantum-inspired cluster expansion approach](https://www.cell.com/matter/pdf/S2590-2385(22)00662-2.pdf), Hitarth Choubisa, Jehad Abed, Douglas Mendoza, Hidetoshi Matsumura, Masahiko Sugimura, Zhenpeng Yao, Ziyun Wang, Brandon R. Sutherland, Alán Aspuru-Guzik, and Edward H. Sargent, 2022
 
-* [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Choubisa, Hitarth , Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
+* [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Hitarth Choubisa , Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
 
 * [Solvent‐Assisted Kinetic Trapping in Quaternary Perovskites](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202008690) Parmar, Darshan H., Joao M. Pina, Hitarth Choubisa, Golam Bappi, Koen Bertens, and Edward H. Sargent. "Solvent‐Assisted Kinetic Trapping in Quaternary Perovskites." Advanced Materials (2021): 2008690.
 

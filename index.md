@@ -7,9 +7,9 @@ layout: home
 
 <img align="left" src="images/hitarth.png" height="300px" style="border-radius:50%; padding: 40px; float: right;">
 
-I am a research scientist at [Orbital Materials](http://orbitalmaterials.com/) where I am pursuing my passion of accelerated materials discovery by developing novel machine learning and quantum chemistry methods to enable an efficient prediction-to-demonstration pipeline, grounded in real world experiments.<br />
+I am a machine learning (ML) specialist at [Xanadu](https://xanadu.ai/) where I have been developing ML algorithms and approaches to accelerate scientific discovery for quantum photonics and quantum computing. Previously, I was a research scientist at [Orbital Materials] (https://www.orbitalmaterials.com/) where I worked at accelerated materials discovery by developing novel machine learning and quantum chemistry methods to enable an efficient prediction-to-demonstration pipeline.<br />
 
-Before this venture as a research scientist, I completed my PhD from the University of Toronto. My research was interdisciplinary, combining quantum chemistry, machine learning, and quantum computing to accelerate the discovery of materials for energy storage and energy capture. The common thread throughout my PhD journey was bridging the gap between theory and experiments.<br />
+Before all of this, I completed my PhD from the University of Toronto. My research was interdisciplinary, combining quantum chemistry, machine learning, and quantum computing to accelerate the discovery of materials for energy storage and energy capture. The common thread throughout my PhD journey was bridging the gap between theory and experiments.<br />
 
 This webpage is meant to showcase some of my works and I try to use it as a means to spread science awareness. <br />
 

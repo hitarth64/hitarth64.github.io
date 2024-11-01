@@ -6,9 +6,11 @@ permalink: /ee/
 
 ### [Publications](https://www.researchgate.net/profile/Hitarth-Choubisa):
 
-* [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://arxiv.org/abs/2302.13380), Choubisa, Hitarth, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
+* [High-entropy alloy electrocatalysts screened using machine learning informed by quantum-inspired similarity analysis](https://www.cell.com/matter/abstract/S2590-2385(24)00528-9), Yuxin Chang, Ian Benlolo, Yang Bai, Christoff Reimer, Daojin Zhou, Hengrui Zhang, Hidetoshi Matsumura, Hitarth Matsumura, Xiao-Yan Li, Wei Chen, and others.
 
-* [Accelerated chemical space search using a quantum-inspired cluster expansion approach](https://www.cell.com/matter/pdf/S2590-2385(22)00662-2.pdf), Choubisa, Hitarth, Jehad Abed, Douglas Mendoza, Hidetoshi Matsumura, Masahiko Sugimura, Zhenpeng Yao, Ziyun Wang, Brandon R. Sutherland, Alán Aspuru-Guzik, and Edward H. Sargent, 2022
+* [Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202302575), Choubisa Hitarth, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, and Edward H. Sargent, 2023
+
+* [Accelerated chemical space search using a quantum-inspired cluster expansion approach](https://www.cell.com/matter/pdf/S2590-2385(22)00662-2.pdf), Choubisa Hitarth, Jehad Abed, Douglas Mendoza, Hidetoshi Matsumura, Masahiko Sugimura, Zhenpeng Yao, Ziyun Wang, Brandon R. Sutherland, Alán Aspuru-Guzik, and Edward H. Sargent, 2022
 
 * [Interpretable discovery of new semiconductors with machine learning](https://arxiv.org/abs/2101.04383), Choubisa, Hitarth , Petar Todorović, Joao M. Pina, Darshan H. Parmar, Ziliang Li, Oleksandr Voznyy, Isaac Tamblyn, Edward Sargent, 2021
 
